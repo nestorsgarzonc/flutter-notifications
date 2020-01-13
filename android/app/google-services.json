@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226692327490",
+    "firebase_url": "https://flutter-square.firebaseio.com",
+    "project_id": "flutter-square",
+    "storage_bucket": "flutter-square.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226692327490:android:d7b9f0558070cb609765db",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226692327490-vce2ikbl67dvjr6pi6819rpijep9c8sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rCM5SCtdxl9S3iiKtiYxsAwRWjQ3A0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226692327490-vce2ikbl67dvjr6pi6819rpijep9c8sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
