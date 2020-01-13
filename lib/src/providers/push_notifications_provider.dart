@@ -33,7 +33,7 @@ class PushNotificationProvider {
         print('On resume');
         print(info);
         final noti = info['data']['comida'];
-        print(noti);
+        _mensajesStreamController.sink.add(noti);
       },
       onBackgroundMessage: (info) async {
         print('On background');
